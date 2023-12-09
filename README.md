@@ -1,5 +1,5 @@
 # XfsSpSample
-XFS Sample Service Provider Project
+XFS Sample Service Provider
 
 ## Introduction
 The XFS (Extension for Financial Services) Service Provider project is a software application designed to interact with and manage Windows XFS services. XFS is an industry standard for financial services devices, such as ATMs and cash dispensers, and this project includes sample service provider that works under a XFS manager.
